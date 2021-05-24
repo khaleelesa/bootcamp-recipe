@@ -1,4 +1,5 @@
 const renderRecipes = new Renderer()
+
 $("#btn").on("click", function() {
 
     let input = $("#item-input").val()
