@@ -64,3 +64,9 @@
 .css-input:focus {
     outline: none;
 }
+
+.ing {
+    width: 100%;
+    height: max-content;
+    background-color: greenyellow;
+}
